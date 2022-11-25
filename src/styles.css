@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.each-price {
+  border: 2px solid salmon;
+  padding: 14px;
+  margin: 13px;
+  width: 350px;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
